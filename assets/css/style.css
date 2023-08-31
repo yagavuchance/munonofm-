@@ -73,7 +73,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: #f07f7f;
+  background: #0505fe;
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
@@ -95,7 +95,7 @@ h6 {
 }
 
 #header .logo a span {
-  color: #0a19e8;
+  color: #fdfdfd;
 }
 
 #header .logo img {
@@ -123,7 +123,7 @@ h6 {
 }
 
 .header-social-links a:hover {
-  color: #0a11ee;
+  color: #0aee0a;
 }
 
 @media (max-width: 768px) {
@@ -164,7 +164,7 @@ h6 {
   font-family: "Roboto", sans-serif;
   font-size: 13px;
   font-weight: 600;
-  color: #111;
+  color: #ffffff;
   white-space: nowrap;
   text-transform: uppercase;
   transition: 0.3s;
@@ -181,7 +181,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #0a11ee;
+  color: #000005;
 }
 
 .navbar .dropdown ul {
@@ -1358,6 +1358,9 @@ h2 {
 .contact .info-wrap {
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
   padding: 30px;
+}
+.map-section{
+  margin-top: 80px;
 }
 
 .contact .info {
