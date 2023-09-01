@@ -1369,11 +1369,11 @@ h2 {
 
 .contact .info i {
   font-size: 20px;
-  color: #1bbd36;
+  color: #291bbd;
   float: left;
   width: 44px;
   height: 44px;
-  border: 1px solid #1bbd36;
+  border: 1px solid #291bbd;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1397,7 +1397,7 @@ h2 {
 }
 
 .contact .info:hover i {
-  background: #1bbd36;
+  background: #291bbd;
   color: #fff;
 }
 
@@ -1475,7 +1475,7 @@ h2 {
 }
 
 .contact .php-email-form button[type=submit] {
-  background: #1bbd36;
+  background: #291bbd;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1484,7 +1484,7 @@ h2 {
 }
 
 .contact .php-email-form button[type=submit]:hover {
-  background: #2ae149;
+  background: #5546f3;
 }
 
 @keyframes animate-loading {
